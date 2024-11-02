@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Antonyos & Monica's Wedding</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to external CSS file -->
+    <style>
+        *{
+            box-sizing: border-box;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000090;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #000048;
+            padding: 20px;
+            text-align: center;
+        }
+        img{
+            width: 100%;
+            max-width: 320px;
+            aspect-ratio: 1/1;
+            object-fit: cover;
+        }
+        h1 {
+            margin: 0;
+        }
+        .content {
+            padding: 20px 20px 110px 20px;
+            text-align: center;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #000048;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Sosta Hena X</h1>
+    </header>
+    <div class="content">
+        <h2>Join us To Test Sosta!</h2>
+        <p>Date: July 10, 2025</p>
+        <p>Location: حمام السلطان</p>
+        <p>12:00 am</p>
+        <img src="./a.jpg" alt="" class="img" />
+    </div>
+    <footer>
+        <p>شاكك في قدراتي , تعالي وهخليك زي مراتي</p>
+    </footer>
+
+</body>
+</html>
